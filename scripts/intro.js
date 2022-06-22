@@ -1,0 +1,1 @@
+/*document.querySelector("form") - procura dentro da pagina inspecionando e usando o console*/
